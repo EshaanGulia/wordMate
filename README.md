@@ -1,1 +1,1 @@
-# wordMate
+WordMate is a web-based transcription and translation tool that leverages Web Workers to run machine learning models directly in the browser, enabling real-time speech-to-text and multilingual conversion.
